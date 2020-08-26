@@ -1,8 +1,9 @@
 Thumbs.db*
 .DS_Store*
 HELP.md
-.gradle/
+.gradle
 build/
+.gradle/
 
 ### STS ###
 .apt_generated
@@ -15,6 +16,7 @@ build/
 
 ### IntelliJ IDEA ###
 .idea/
+.idea
 *.iws
 *.iml
 *.ipr
